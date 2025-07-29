@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GUNA SAI REDDY</h1>
 <h3 align="center">A passionate software developer engineer from India</h3>
-<img src="https://in.pinterest.com/pin/illustrationpngtree--618048748845703159/">
+<img src="https://www.google.com/imgres?q=animated%20technology%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fgadget-electronics-mascots-electron-gadget-unite_1263357-5475.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ftechnology-cartoon&docid=-eQTpRzQrOZbdM&tbnid=JTw79RpECdoMVM&vet=12ahUKEwi2k-3fkeKOAxWSn2MGHYXxDJMQM3oECBcQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwi2k-3fkeKOAxWSn2MGHYXxDJMQM3oECBcQAA">
 
 - 🌱 I’m currently learning **web devolpment**
 
