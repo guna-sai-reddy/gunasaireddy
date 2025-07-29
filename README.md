@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GUNA SAI REDDY</h1>
 <h3 align="center">A passionate software developer engineer from India</h3>
-<img src="https://in.pinterest.com/pin/illustrationpngtree--618048748845703159/" alt="">
+<img src="https://in.pinterest.com/pin/illustrationpngtree--618048748845703159/">
 
 - 🌱 I’m currently learning **web devolpment**
 
