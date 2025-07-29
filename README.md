@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GUNA SAI REDDY</h1>
 <h3 align="center">A passionate software developer engineer from India</h3>
-<img src="https://www.google.com/imgres?q=animated%20technology%20images&imgurl=https%3A%2F%2Fi.pinimg.com%2F474x%2F62%2F41%2Fc7%2F6241c74621ef99775136fcb201ad4910.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fillustrationpngtree--618048748845703159%2F&docid=KSAHHPlhKR7_QM&tbnid=RgiSdcpJH4sAvM&vet=12ahUKEwiO_pbTjeKOAxW0wzgGHVvkK4UQM3oECCEQAA..i&w=360&h=540&hcb=2&ved=2ahUKEwiO_pbTjeKOAxW0wzgGHVvkK4UQM3oECCEQAA">
+<img src="https://www.google.com/imgres?q=animated%20technology%20images&imgurl=https%3A%2F%2Fi.pinimg.com%2F474x%2F62%2F41%2Fc7%2F6241c74621ef99775136fcb201ad4910.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fillustrationpngtree--618048748845703159%2F&docid=KSAHHPlhKR7_QM&tbnid=RgiSdcpJH4sAvM&vet=12ahUKEwiO_pbTjeKOAxW0wzgGHVvkK4UQM3oECCEQAA..i&w=360&h=540&hcb=2&ved=2ahUKEwiO_pbTjeKOAxW0wzgGHVvkK4UQM3oECCEQAA" alt="">
 
 - 🌱 I’m currently learning **web devolpment**
 
