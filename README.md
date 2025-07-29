@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GUNA SAI REDDY</h1>
 <h3 align="center">A passionate software developer engineer from India</h3>
-<img src="https://www.shutterstock.com/image-vector/working-home-vector-flat-style-260nw-1751135810.jpg"alt=""> 
+
 - 🌱 I’m currently learning **web devolpment**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/guna369_official_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guna369_official_/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uch74l7_dmkg9dwmf0zrzl0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uch74l7_dmkg9dwmf0zrzl0g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
