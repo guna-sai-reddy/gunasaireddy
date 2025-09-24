@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GUNA SAI REDDY</h1>
 <h3 align="center">A passionate software developer engineer from India</h3>
-<h1>guna</h1>
+<img src="C:\Users\gunas\OneDrive\Pictures\git1.jpg" alt=""width="50px" height="50px">
  
 - 🌱 I’m currently learning **web devolpment**
 
