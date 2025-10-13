@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
-- 💬 Ask me about **c,HTML,CSS,javascript**
+- 💬 Ask me about **c, java,HTML,CSS,javascript**
 
 - 📫 How to reach me **gunasaireddybacchu@gmail.com**
 
